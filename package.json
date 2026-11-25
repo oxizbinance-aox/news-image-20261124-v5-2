@@ -1,0 +1,1 @@
+{"description":"News Image 24 November 2026 — 38 dated stories, 7 regions, 13 drawn, claims labelled — Tuesday 24 November 2026 in one page","license":"MIT","name":"news-image-20261124-v5-2","scripts":{"render":"python3 draw_news24_v5_2.py","start":"node main.ts"},"type":"module","version":"5.2.0"}
